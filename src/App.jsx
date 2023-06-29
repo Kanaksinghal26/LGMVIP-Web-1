@@ -1,11 +1,11 @@
-import React,{ useState } from 'react'
+import React, { useState } from 'react'
 import './App.css'
-import Box from './Box'
+import List from './List/List'
 function App() {
 
 	return (
 		<>
-			<Box />
+			<List />
 		</>
 	)
 }
