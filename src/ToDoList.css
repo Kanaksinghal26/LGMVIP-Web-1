@@ -1,0 +1,6 @@
+.todo_style li{
+    margin-left: 20px;
+}
+.todo_style i{
+    cursor: pointer;
+}
