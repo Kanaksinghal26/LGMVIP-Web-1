@@ -4,7 +4,7 @@
     /* border: 1px solid; */
     margin-top: 5vh;
     background-color: white;
-    height: 70vh;
+    min-height: 70vh;
     border: 0px solid;
     border-radius: 30px;
     
